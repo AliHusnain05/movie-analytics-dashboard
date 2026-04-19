@@ -1,4 +1,5 @@
-<img width="483" height="274" alt="Main Dashboard" src="https://github.com/user-attachments/assets/4c4db669-bd61-4601-9007-d6c3171120bb" /># 🎬 Movie Analytics Dashboard
+# 🎬 Movie Analytics Dashboard
+<img alt="Main Dashboard" src="https://github.com/user-attachments/assets/4c4db669-bd61-4601-9007-d6c3171120bb" />
 
 An interactive multi-page dashboard built using Power BI and MySQL to analyze movie performance, financial metrics, and actor insights.
 
@@ -24,9 +25,7 @@ An interactive multi-page dashboard built using Power BI and MySQL to analyze mo
 
 ## 📸 Dashboard Preview
 
-## 📸 Dashboard Preview
-
-![Main Dashboard](images/Main Dashboard.png)
+![Main Dashboard](images/Main_Dashboard.png)
 ![Actors](images/Actors.png)
 ![Financials](images/Financials.png)
 ![Industry](images/Industry.png)
@@ -34,7 +33,7 @@ An interactive multi-page dashboard built using Power BI and MySQL to analyze mo
 
 ## 🎥 Demo
 
-(You can add your LinkedIn video link here)
+[Watch Dashboard Demo on LinkedIn](https://www.linkedin.com/posts/rana-ali-husnain_powerbi-dataanalytics-businessintelligence-ugcPost-7447216788913885184-KllN)
 
 ---
 
