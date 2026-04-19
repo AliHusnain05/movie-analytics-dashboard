@@ -17,6 +17,14 @@ An interactive multi-page dashboard built using Power BI and MySQL to analyze mo
 * MySQL
 * DAX
 
+## 📊 Key Metrics
+
+- Total Revenue
+- Total Profit
+- ROI (Return on Investment)
+- Total Movies
+- Total Actors
+
 ## 📊 Key Insights
 
 * Identified top-performing movies and actors
@@ -25,15 +33,14 @@ An interactive multi-page dashboard built using Power BI and MySQL to analyze mo
 
 ## 📸 Dashboard Preview
 
-![Main Dashboard](images/Main_Dashboard.png)
 ![Actors](images/Actors.png)
 ![Financials](images/Financials.png)
 ![Industry](images/Industry.png)
 ![Language](images/Language.png)
 
-## 🎥 Demo
+## 🎥 Live Demo
 
-[Watch Dashboard Demo on LinkedIn](https://www.linkedin.com/posts/rana-ali-husnain_powerbi-dataanalytics-businessintelligence-ugcPost-7447216788913885184-KllN)
+👉 [▶️ Watch Dashboard Demo on LinkedIn](https://www.linkedin.com/posts/rana-ali-husnain_powerbi-dataanalytics-businessintelligence-ugcPost-7447216788913885184-KllN)
 
 ---
 
